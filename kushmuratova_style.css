@@ -26,3 +26,68 @@ back-ground color:#0EF2D8;
 padding:padding-left:0px;
 
 }
+
+nav u1{
+list-style:none; 
+padding-left:0px;
+text-align:left;
+}
+
+nav a:link{
+text-decoration:none;
+font :90% Georgia;
+color:rgb(145,3,250);
+back-ground color:transparent; 
+}
+
+nav a:visited {
+text-decoration:none;
+font :90% Georgia;
+color:rgb(29,9,244);
+back-ground color:transparent; 
+}
+
+nav a;  hover {
+color:green;
+}
+
+nav li{
+font:90% Georgia;
+border-bottom:1px dotted balck;
+}
+
+nav h2{
+font:90% Georgia;
+color:rgb(201,12,249); 
+border-bottom:1px dotted rgb(247,150,4); 
+}
+
+main{
+position:absolute;
+top:100%;
+left:22%;
+width:78%;
+height:80%;
+padding:padding-left:0px;
+overflow:scroll;
+}
+
+main h1{
+font:150% Georgia;
+font-weight :800;
+color :rgb (88,15,247)
+}
+
+main h2{
+font:130% Georgia;
+font-weight :600;
+font-style:italic;
+color :rgb (60,50,231)
+}
+
+main p{
+font:oo% Georgia;
+color :rgb (25,25,25)
+text-align:justify;
+
+}
