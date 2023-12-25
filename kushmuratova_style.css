@@ -8,3 +8,21 @@ back-ground color:#110D03;
 padding-top:0px;
 padding-bottom:0px
 }
+
+header .slogan{
+font:120% Georgia;
+color: rgb(225,246,243);
+back-ground color:transparent;
+text-align:right;
+}
+
+nav{
+position:absolute;
+top:10%;
+left:0%;
+width:22%;
+height:80%;
+back-ground color:#0EF2D8;
+padding:padding-left:0px;
+
+}
